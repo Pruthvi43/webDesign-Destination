@@ -1,0 +1,12 @@
+body{
+    background-image: url('maldives-7680x4320 (1).jpg');
+    background-size: cover ;
+}
+h1 {
+    color: white;
+    font-family: Tahoma ;
+}
+h2{
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+}
