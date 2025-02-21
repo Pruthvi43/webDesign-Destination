@@ -1,6 +1,7 @@
 body{
     background-image: url('maldives-7680x4320 (1).jpg');
     background-size: cover ;
+/*Background code to change it into an image */
 }
 h1 {
     text-align: center;
@@ -16,3 +17,14 @@ h3{
     font-family: 'Courier New', Courier, monospace  ;
     font-size: medium;
 }
+/* Colors and formats for h1 to h3 text sizes */
+a {
+    color:rgb(255, 64, 64);
+    font-size: 17px;
+    margin-right: 10px; 
+}
+/* Gives spacing between links and sets the colors for the link*/
+a:hover{
+    color:aliceblue;
+}
+/*Hover feature that makes it so the link changes color whe mouse is place over the link.*/
